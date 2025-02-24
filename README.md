@@ -1,1 +1,1 @@
-# Text_Scrapping_and_RAG
+# Retrieval-Augmented Generation (RAG) Pipeline with FAISS and Azure OpenAI
